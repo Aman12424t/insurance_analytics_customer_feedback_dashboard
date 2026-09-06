@@ -86,11 +86,12 @@ Power BI Service
 ## Screenshots
 
 ### Insurance Overview
-
+![image-alt](https://github.com/Aman12424t/insurance_analytics_customer_feedback_dashboard/blob/7810df7245738c40c3dbd5fe86cf002d64ed9c6c/screenshots/png_1.png)
 
 ### Policy Details
-
+![image-alt](https://github.com/Aman12424t/insurance_analytics_customer_feedback_dashboard/blob/7810df7245738c40c3dbd5fe86cf002d64ed9c6c/screenshots/png_2.png)
 
 ### Customer Feedback & Sentiment
+![image-alt](https://github.com/Aman12424t/insurance_analytics_customer_feedback_dashboard/blob/7810df7245738c40c3dbd5fe86cf002d64ed9c6c/screenshots/png_3.png)
 
 
