@@ -67,6 +67,7 @@ Visuals include:
 + Detailed Feedback Table
 ## Power BI Service
 The report was published and managed in Power BI Service.
+
 The project includes:
 
 + Workspace
